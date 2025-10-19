@@ -56,22 +56,12 @@ RAIE-Transformer-Cricket/
 ├── models/
 │   ├── pretrained_model.pth      # Pre-trained model weights
 │   ├── config.yaml               # Model and training configurations
-├── scripts/
-│   ├── setup_env.sh             # Environment setup script
-│   ├── run_pipeline.sh          # Full pipeline execution script
-├── results/
-│   ├── trajectory_plots/         # Trajectory visualizations
-│   ├── evaluation_results.md     # Performance metrics summary
-├── docs/
-│   ├── paper.pdf                # Paper PDF (if permitted)
-│   ├── references.bib           # Bibliography
 ├── images/
 │   ├── raie_transformer_overview.png  # Model architecture diagram
 │   ├── trajectory_plot.png       # Sample trajectory visualization
 ├── README.md                    # This file
 ├── requirements.txt             # Python dependencies
 ├── LICENSE                      # License file
-├── CONTRIBUTING.md              # Contribution guidelines
 ```
 
 ## Installation
