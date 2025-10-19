@@ -191,33 +191,3 @@ To generate similar visualizations, run:
 ```bash
 python src/visualize.py --input results/trajectories --output results/trajectory_plots
 ```
-
-## Citation
-
-If you use this code or dataset, please cite our paper:
-```bibtex
-@article{dereddy2025raie,
-  title={RAIE Transformer: A Recency-Augmented Transformer Architecture for Automated Sports Ball Trajectory Prediction in Cricket},
-  author={Dereddy, Hitesh Reddy and Joshi, Rakesh Chandra and Sinha, Ayan Harsh and Ram, Pintu Kumar and Dutta, Malay Kishore},
-  journal={IEEE},
-  year={2025}
-}
-```
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contributing
-
-We welcome contributions to improve the RAIE Transformer! Please read `CONTRIBUTING.md` for guidelines on submitting issues, pull requests, or new features.
-
-## Contact
-
-For questions or collaboration, please contact:
-- Hitesh Reddy Dereddy: [dereddy.reddy@s.amity.edu](mailto:dereddy.reddy@s.amity.edu)
-- Rakesh Chandra Joshi: [rakeshchandraindia@gmail.com](mailto:rakeshchandraindia@gmail.com)
-
----
-
-*This repository is maintained by the Amity Centre for Artificial Intelligence, Amity University Uttar Pradesh.*
