@@ -27,7 +27,7 @@ The RAIE Transformer addresses the challenges of predicting cricket ball traject
 - **Average Displacement Error (ADE)**: 2.3508
 - **Final Displacement Error (FDE)**: 2.5595
 
-The model was trained and evaluated on a curated dataset of **8,000 manually annotated frames** from **212 cricket deliveries**, sourced from public YouTube videos.
+The model was trained and evaluated on a curated dataset of **4,400 manually annotated frames** from **212 cricket deliveries**, sourced from public YouTube videos.
 
 ## Key Features
 - **Recency-Augmented Input Embeddings (RAIE)**: Enhances prediction accuracy by emphasizing recent motion patterns.
