@@ -84,8 +84,8 @@ RAIE-Transformer-Cricket/
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/RAIE-Transformer-Cricket.git
-   cd RAIE-Transformer-Cricket
+   git clone https://github.com/<your-username>/RAIE-Transformer-Cricket.git](https://github.com/HiteshDereddy/RAIE-Transformer.git
+   cd RAIE-Transformer
    ```
 
 2. **Install Dependencies**:
@@ -99,10 +99,6 @@ RAIE-Transformer-Cricket/
    - `ultralytics` (for YOLOv11n)
    - `numpy`, `pandas`, `matplotlib`
 
-   Alternatively, use the setup script:
-   ```bash
-   bash scripts/setup_env.sh
-   ```
 
 3. **Optional: Conda Environment**:
    Create a Conda environment for reproducibility:
@@ -122,9 +118,7 @@ The dataset comprises **4,400 manually annotated frames** from **212 cricket del
 - **Diversity**: Includes fast, spin, and swing deliveries for varied motion patterns
 
 ### Files
-- `data/annotations.csv`: Full dataset of annotations
-- `data/sample_data.csv`: Small sample for testing
-- `data/dataset.md`: Detailed dataset description
+- Coming Soon
 
 **Note**: Only derived annotations (CSV files) are shared to comply with copyright and ethical standards. Raw video files are not included.
 
